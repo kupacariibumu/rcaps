@@ -1,5 +1,6 @@
 import os
 
-if not os.exists('./ini_folder/ini_subfolder')
-    print('Folder sudah ada')
+if not os.path.exists('./ini_folder/ini_subfolder')
 
+print('Folder sudah ada')
+pass
