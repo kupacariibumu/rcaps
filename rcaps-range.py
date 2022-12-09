@@ -6,7 +6,7 @@ Date: 2018-03-01
 """
 
 sum = 0
-for x in range(2, 10, 1):
+for x in range(1, 10, 1):
     print(x)
     sum += x
 print(sum)
@@ -19,4 +19,5 @@ print(sum)
 7
 8
 9
+45
 """
